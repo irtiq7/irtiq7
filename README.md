@@ -9,7 +9,7 @@
 
 
 ### 🏖️ My Life... 
-I'm an **Ph.D. graduate🎓 from [@Aalborg University, Denmark](https://www.aau.dk/)** with research interest in robot audition, embedded systems and signal processing. I'm a **Tech Enthusiast 💻** but this isn't limited to just building software. I Love reading and watching science fiction books!! ♾️ <br/><br/>
+I'm a **Ph.D. graduate🎓 from [@Aalborg University, Denmark](https://www.aau.dk/)** with research interest in robot audition, embedded systems and signal processing. I'm a **Tech Enthusiast 💻** but this isn't limited to just building software. I Love reading and watching science fiction books!! ♾️ <br/><br/>
 
 
 ## ⚡️ A Few Quick Facts
