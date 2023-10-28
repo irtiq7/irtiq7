@@ -29,3 +29,5 @@ I'm a **Ph.D. graduate🎓 from [@Aalborg University, Denmark](https://www.aau.d
 <code><img height="30" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"></code>
 <code><img height="30" src="https://www.clipartmax.com/png/middle/279-2791029_python-icon-python-logo.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZccoVMr_3wsUQyCaVWV5joh5dz6_1o_M07rT88Vg&s"></code> 
+
+![brightgreen](https://komarev.com/ghpvc/?username=irtiq7)
