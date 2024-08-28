@@ -17,7 +17,7 @@ I'm a **Ph.D. graduate🎓 from [@Aalborg University, Denmark](https://www.aau.d
 <img width="490" height="270" src="assets/haskell-line-comment-block.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-    - 📊 Machine Learning & Data Science
+    - 📊 Signal processing, Robotics, & Machine Learning
     - 📐 Learning new and interesting computer science topics
     - 👯 I’m looking to collaborate on anything really, give me a challenge.
     - 💬 Ask me about ML, robotics, and statistical modeling 
