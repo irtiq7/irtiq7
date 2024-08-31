@@ -13,7 +13,7 @@ I'm a **Ph.D. graduate🎓 from [@Aalborg University, Denmark](https://www.aau.d
 
 
 ## ⚡️ A Few Quick Facts
-- 🌱 I’m currently learning Deep Neural Networks 🤓
+- 🌱 I’m currently writing a book based on my PhD 🤓
 <img width="490" height="270" src="assets/haskell-line-comment-block.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
