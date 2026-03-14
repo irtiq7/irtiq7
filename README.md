@@ -32,6 +32,8 @@ I'm a **Ph.D. graduate🎓 from [@Aalborg University, Denmark](https://www.aau.d
 
 ![brightgreen](https://komarev.com/ghpvc/?username=irtiq7)
 
-If you like any of my projects then please support me so that I could continue making great projects.
+If you like any of my projects, please support me so I can continue building more!
 
-<a href="https://www.buymeacoffee.com/irtiq7"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=irtiq7&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/irtiq7">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=irtiq7&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+</a>
