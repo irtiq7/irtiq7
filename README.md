@@ -31,3 +31,7 @@ I'm a **Ph.D. graduate🎓 from [@Aalborg University, Denmark](https://www.aau.d
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZccoVMr_3wsUQyCaVWV5joh5dz6_1o_M07rT88Vg&s"></code> 
 
 ![brightgreen](https://komarev.com/ghpvc/?username=irtiq7)
+
+If you like any of my projects then please support me so that I could continue making great projects.
+
+<a href="https://www.buymeacoffee.com/irtiq7"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=irtiq7&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
